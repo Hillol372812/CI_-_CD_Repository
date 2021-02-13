@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 14006235469,
+              "duration": 21374099495,
               "status": "passed"
             },
             "line": 5,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 2769527502,
+              "duration": 45865781,
               "status": "passed"
             },
             "line": 6,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 366335275,
+              "duration": 385237773,
               "status": "passed"
             },
             "line": 7,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 827759424,
+              "duration": 192635632,
               "status": "passed"
             },
             "line": 8,
@@ -60,7 +60,7 @@
           },
           {
             "result": {
-              "duration": 1089092171,
+              "duration": 892253823,
               "status": "passed"
             },
             "line": 9,
@@ -86,119 +86,13 @@
           },
           {
             "result": {
-              "duration": 1616974325,
+              "duration": 1214302847,
               "status": "passed"
             },
             "line": 10,
             "name": "Click on Log in button",
             "match": {
               "location": "EasyTrip.click_on_Log_in_button()"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "line": 16,
-        "name": "Navgate different services",
-        "description": "",
-        "id": "login-into-easytrip;navgate-different-services",
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 15685444019,
-              "status": "passed"
-            },
-            "line": 18,
-            "name": "User Navigate to Login Page",
-            "match": {
-              "location": "EasyTrip.user_Navigate_to_Login_Page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 19656069,
-              "status": "passed"
-            },
-            "line": 19,
-            "name": "Validate the title of the Page",
-            "match": {
-              "location": "EasyTrip.validate_the_title_of_the_Page()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 5270264328,
-              "status": "passed"
-            },
-            "line": 20,
-            "name": "Click on Flights",
-            "match": {
-              "location": "EasyTrip.click_on_Flights()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1932042411,
-              "status": "passed"
-            },
-            "line": 21,
-            "name": "Click on Hotels",
-            "match": {
-              "location": "EasyTrip.click_on_Hotels()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1931393638,
-              "status": "passed"
-            },
-            "line": 22,
-            "name": "Click on Train",
-            "match": {
-              "location": "EasyTrip.click_on_Train()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2891723892,
-              "status": "passed"
-            },
-            "line": 23,
-            "name": "Click on Bus",
-            "match": {
-              "location": "EasyTrip.click_on_Bus()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2543984282,
-              "status": "passed"
-            },
-            "line": 24,
-            "name": "Click on Cab",
-            "match": {
-              "location": "EasyTrip.click_on_Cab()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 3497825716,
-              "status": "passed"
-            },
-            "line": 25,
-            "name": "Click on giftcard",
-            "match": {
-              "location": "EasyTrip.click_on_giftcard()"
             },
             "keyword": "Then "
           }
