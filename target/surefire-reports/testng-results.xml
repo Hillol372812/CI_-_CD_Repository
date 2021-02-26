@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="BDD Test Suite" duration-ms="56806" started-at="2021-02-13T18:21:50Z" finished-at="2021-02-13T18:22:47Z">
+  <suite name="BDD Test Suite" duration-ms="40297" started-at="2021-02-26T05:45:17Z" finished-at="2021-02-26T05:45:58Z">
     <groups>
       <group name="cucumber">
-        <method signature="TestRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:MyRunner.TestRunner@6a2bcfcb]" name="feature" class="MyRunner.TestRunner"/>
+        <method signature="TestRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:MyRunner.TestRunner@4de8b406]" name="feature" class="MyRunner.TestRunner"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="FREE CRM Test" duration-ms="56806" started-at="2021-02-13T18:21:50Z" finished-at="2021-02-13T18:22:47Z">
+    <test name="CI CD test" duration-ms="40297" started-at="2021-02-26T05:45:17Z" finished-at="2021-02-26T05:45:58Z">
       <class name="MyRunner.TestRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:MyRunner.TestRunner@6a2bcfcb]" name="setUpClass" is-config="true" duration-ms="922" started-at="2021-02-13T18:21:50Z" finished-at="2021-02-13T18:21:51Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:MyRunner.TestRunner@4de8b406]" name="setUpClass" is-config="true" duration-ms="812" started-at="2021-02-26T05:45:17Z" finished-at="2021-02-26T05:45:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:MyRunner.TestRunner@6a2bcfcb]" name="feature" duration-ms="55431" started-at="2021-02-13T18:21:51Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-02-13T18:22:47Z">
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:MyRunner.TestRunner@4de8b406]" name="feature" duration-ms="39108" started-at="2021-02-26T05:45:18Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-02-26T05:45:58Z">
           <params>
             <param index="0">
               <value>
@@ -25,11 +25,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:MyRunner.TestRunner@6a2bcfcb]" name="tearDownClass" is-config="true" duration-ms="125" started-at="2021-02-13T18:22:47Z" finished-at="2021-02-13T18:22:47Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:MyRunner.TestRunner@4de8b406]" name="tearDownClass" is-config="true" duration-ms="47" started-at="2021-02-26T05:45:58Z" finished-at="2021-02-26T05:45:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- MyRunner.TestRunner -->
-    </test> <!-- FREE CRM Test -->
+    </test> <!-- CI CD test -->
   </suite> <!-- BDD Test Suite -->
 </testng-results>
