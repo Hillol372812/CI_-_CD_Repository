@@ -19,7 +19,7 @@ public class EasyTrip {
 		
 		@Given("^User Navigate to Login Page$")
 		public void user_Navigate_to_Login_Page() throws Throwable {
-		    // Writs code here that  turns the phrase above into concrete action
+		    // Writs code here thats  turns the phrase aboves into concrete action
 			//System.setProperty("webdriver.chrome.driver", "C:\\Users\\Hillol\\Desktop\\Eclipse\\Chrome driver\\Updated_81\\chromedriver.exe");
 			 WebDriverManager.chromedriver().setup();
 			driver= new ChromeDriver();

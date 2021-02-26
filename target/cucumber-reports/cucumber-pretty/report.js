@@ -115,28 +115,28 @@ formatter.match({
   "location": "EasyTrip.user_Navigate_to_Login_Page()"
 });
 formatter.result({
-  "duration": 31005352793,
+  "duration": 12313080338,
   "status": "passed"
 });
 formatter.match({
   "location": "EasyTrip.validate_the_title_of_the_Page()"
 });
 formatter.result({
-  "duration": 3185106496,
+  "duration": 2076665570,
   "status": "passed"
 });
 formatter.match({
   "location": "EasyTrip.click_on_My_Account()"
 });
 formatter.result({
-  "duration": 1212239957,
+  "duration": 324400667,
   "status": "passed"
 });
 formatter.match({
   "location": "EasyTrip.click_on_Sign_in_button()"
 });
 formatter.result({
-  "duration": 763946622,
+  "duration": 265851080,
   "status": "passed"
 });
 formatter.match({
@@ -153,14 +153,14 @@ formatter.match({
   "location": "EasyTrip.enter_and(String,String)"
 });
 formatter.result({
-  "duration": 1367668135,
+  "duration": 1196384690,
   "status": "passed"
 });
 formatter.match({
   "location": "EasyTrip.click_on_Log_in_button()"
 });
 formatter.result({
-  "duration": 1398303679,
+  "duration": 1231346658,
   "status": "passed"
 });
 });
