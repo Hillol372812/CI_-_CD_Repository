@@ -23,6 +23,7 @@ public class EasyTrip {
 			//System.setProperty("webdriver.chrome.driver", "C:\\Users\\Hillol\\Desktop\\Eclipse\\Chrome driver\\Updated_81\\chromedriver.exe");
 			 WebDriverManager.chromedriver().setup();
 			driver= new ChromeDriver();
+						Thread.sleep(10000);
 		    driver.get("https://www.easemytrip.com/");
 		    driver.manage().window().maximize();
 		    driver.navigate().refresh();
